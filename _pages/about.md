@@ -13,11 +13,9 @@ I also collaborate with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) at [HK
 ## Awards
 
 - **Trewartha Senior Honors Thesis Research Award ($1500), UW–Madison, 2024**  
-
-For excellence in undergraduate research on intelligent classroom systems.
+  For excellence in undergraduate research on intelligent classroom systems.
 - **Dean's List, UW–Madison, Fall 2023 – Spring 2025**  
-
-Recognized for outstanding academic performance (GPA 3.97/4.0).
+  Recognized for outstanding academic performance (GPA 3.97/4.0).
 
 ## News
 
