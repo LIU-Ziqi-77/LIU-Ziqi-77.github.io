@@ -1,0 +1,46 @@
+.about-page {
+  font-size: 14px;   
+  line-height: 1.6;   
+}
+$dark-gray: #333333;
+
+:root {
+  --global-bg-color: #E9F1F4;
+
+  --global-link-color: #2A6F9E;
+  --global-link-color-hover: #1E5A84;
+}
+.page__sidebar,
+.sidebar {
+  background-color: #DCE9EE; 
+  padding-left: 8px; 
+  padding-right: 24px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .page__sidebar,
+  .sidebar {
+    background-color: #2e2e2e;
+  }
+}
+
+html[data-theme="dark"] {
+  .page__sidebar,
+  .sidebar {
+    background-color: #2e2e2e;
+  }
+}
+
+/* 增加主内容区域左侧间距 */
+.page__content {
+  padding-left: 24px;
+}
+
+/* 将头像从圆形改为长方形 */
+.author__avatar img {
+  border-radius: 5px;
+}
+
+.author__bio {
+  white-space: nowrap;
+}
