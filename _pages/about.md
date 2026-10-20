@@ -6,7 +6,10 @@ author_profile: true
 
 # Hello!
 
-I'm Ziqi Liu, a senior undergraduate student at [University of Wisconsin–Madison](https://www.wisc.edu/), where I am completing my B.S. in Computer Science (Honors) advised by [Prof. Bilge Mutlu](https://bmutlu.github.io/) and [Prof. Yuhang Zhao](https://www.yuhangz.com/).
+I'm Ziqi Liu, a Visiting Researcher at [Carnegie Mellon University](https://www.cmu.edu/), working with [Prof. John Stamper](https://hcii.cmu.edu/people/john-stamper).
+
+I earned my B.S. in Computer Science (Honors) from [University of Wisconsin–Madison](https://www.wisc.edu/), where I conducted research advised by [Prof. Bilge Mutlu](https://bmutlu.github.io/) and [Prof. Yuhang Zhao](https://www.yuhangz.com/).
+
 My research spans Human–Computer Interaction (HCI), Human–Centered AI, and Education. I am broadly interested in how intelligent systems can better understand, support, and enhance human interaction across diverse real-world contexts.
 I also collaborate with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) at [HKUST](https://hkust.edu.hk/) on Human-Robot Interaction.
 
