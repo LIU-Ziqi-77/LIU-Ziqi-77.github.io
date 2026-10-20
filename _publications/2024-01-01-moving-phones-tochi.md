@@ -5,6 +5,8 @@ category: preprints
 permalink: /publication/2024-moving-phones-tochi
 date: 2026-01-02
 authors: "Ziqi Pan, <strong>Ziqi Liu</strong>, Jinhan Zhang, Zeyu Huang, Xiaojuan Ma"
-paperurl:
+paperurl: "https://arxiv.org/abs/2603.10394v2"
 ---
+
+
 
