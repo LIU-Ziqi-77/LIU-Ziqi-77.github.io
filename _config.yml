@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Ziqi's page"
 title_separator          : "-"
 name                     : &name "Ziqi Liu"
-description              : &description "B. S. in Computer Science"
+description              : &description "Visiting Researcher at Carnegie Mellon University"
 url                      : "https://LIU-Ziqi-77.github.io"
 baseurl                  : ""
 repository               : "LIU-Ziqi-77/LIU-Ziqi-77.github.io"
@@ -25,12 +25,12 @@ author:
   avatar           : "Ziqi.jpg"
   name             : "Ziqi Liu"
   pronouns         : # example: "she/her"  
-  bio              : "B.S. in Computer Science"
-  location         : "Madison, Wisconsin"
-  employer         : "University of Wisconsin–Madison"
+  bio              : "Visiting Researcher"
+  location         : "Pittsburgh, Pennsylvania"
+  employer         : "Carnegie Mellon University"
   uri              : # URL
   linkedin         : "ziqi-liu-91210b23b"
-  email            : "ziqil@cs.wisc.edu" 
+  email            : "ziqi@cmu.edu" 
 
   # Academic websites
   academia         : # URL
