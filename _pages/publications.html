@@ -208,7 +208,7 @@ author_profile: true
       {% endif %}
       {% if post.paperurl %}
       <div class="pub-links">
-        <a href="{{ post.paperurl }}">PDF</a>
+        <a href="{{ post.paperurl }}">{% if cat_key == "preprints" %}arXiv{% else %}PDF{% endif %}</a>
       </div>
       {% endif %}
     </div>
