@@ -82,24 +82,45 @@ html[data-theme="dark"] {
   width: 1.25em;
   text-align: center;
 }
-/* Reserve enough desktop space for the full affiliation on one line. */
+/* Size the desktop profile column to its longest line of text. */
 @media (min-width: 57.8125em) {
+  #main {
+    display: grid;
+    grid-template-columns: max-content minmax(0, 1fr);
+    column-gap: 2rem;
+    align-items: start;
+  }
+
+  #main::before,
+  #main::after {
+    display: none;
+  }
+
   #main > .sidebar {
-    width: 16rem;
-    min-width: 16rem;
-    max-width: 16rem;
+    width: max-content;
+    min-width: 0;
+    max-width: none;
     margin-right: 0;
+    float: none;
+    position: sticky;
+    top: 0;
   }
 
   #main > .page,
   #main > .archive {
-    width: calc(100% - 18rem);
+    width: 100%;
+    min-width: 0;
+    float: none;
     padding-left: 0;
     padding-right: 0;
   }
 
+  .sidebar .author__avatar {
+    width: 180px;
+  }
+
   .sidebar .author__avatar img {
-    max-width: 180px;
+    max-width: 100%;
   }
 
   .sidebar .author__bio,
@@ -107,5 +128,9 @@ html[data-theme="dark"] {
   .sidebar .author__urls a {
     white-space: nowrap;
     overflow-wrap: normal;
+  }
+
+  .sidebar .author__urls a {
+    grid-template-columns: 1.25em max-content;
   }
 }
